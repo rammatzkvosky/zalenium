@@ -88,7 +88,7 @@
         <skip.surefire.tests>${skipTests}</skip.surefire.tests>
         <skip.failsafe.setup>false</skip.failsafe.setup>
         <integrationToTest>sauceLabs</integrationToTest>
-        <httpmime.version>4.5.6</httpmime.version>
+        <httpmime.version>4.5.13</httpmime.version>
         <junit.system-rules.version>1.19.0</junit.system-rules.version>
     </properties>
 
