@@ -77,7 +77,7 @@
         <maven-failsafe-plugin.version>2.22.0</maven-failsafe-plugin.version>
         <versions-maven-plugin.version>2.5</versions-maven-plugin.version>
         <exec-maven-plugin.version>1.6.0</exec-maven-plugin.version>
-        <jacoco-maven-plugin.version>0.7.9</jacoco-maven-plugin.version>
+        <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
         <prometheus.version>0.5.0</prometheus.version>
         <aspectj.version>1.8.13</aspectj.version>
         <aspectj-maven-plugin.version>1.11</aspectj-maven-plugin.version>
